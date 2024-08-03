@@ -210,7 +210,7 @@ mysqli_close($conn);
                                             <th scope="col">Menu</th>
                                             <th scope="col">Harga</th>
                                             <th scope="col">Banyak</th>
-                                            <th scope="col">Total</th>
+                                            <th scope="col">Total</th>  
                                          
                                         </tr>
                                     </thead>

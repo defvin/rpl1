@@ -84,8 +84,9 @@ mysqli_close($conn);
                                     
                                 </tr>
                             <?php
-                            }
+                            
                             $total += $row['total_harga'];
+                        }
                             ?>
                             <tr>
                                 <td colspan="3" class="fw-bold">
